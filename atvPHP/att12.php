@@ -9,6 +9,6 @@ $imposto = ($custoFabr * 45) / 100;
 $valImposto = $custoFabr + $imposto;
 $dist = ($valImposto * 28) / 100;
 $valDistr = $valImposto + $dist;
-echo $valDistr;
+echo "o preço de fabrica é $custoFabr e o valos do consumidor é $valDistr";
 
 ?>
