@@ -5,5 +5,5 @@ o usuário. -->
 <?php 
 $dolar = 10;
 $real = $dolar * 5.72;
-echo $real;
+echo "O usuário contém $dolar dolares, e $real reais";
 ?>
