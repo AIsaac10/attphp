@@ -3,10 +3,10 @@ mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas 
 seu nome, o salário fixo e salário no final do mês. -->
 
 <?php 
-$vendedor = 'Antônio';
-$salFixo = 1500;
-$vendEfet = 500;
-$comi = $vendEfet * 15 / 100;
-$sal = $salFixo + $comi;
-echo $vendedor . ' recebeu de salário fixo ' . $salFixo . ' e recebeu no total ' . $sal . ' no mês';
+  $vendedor = 'Antônio';
+  $salFixo = 1500;
+  $vendEfet = 500;
+  $comi = $vendEfet * 15 / 100;
+  $sal = $salFixo + $comi;
+  echo $vendedor . ' recebeu de salário fixo ' . $salFixo . ' e recebeu no total ' . $sal . ' no mês';
 ?>
