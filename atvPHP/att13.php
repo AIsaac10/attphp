@@ -5,5 +5,4 @@ $val = 11;
 if ($val > 10) {
     echo $val . ' é maior do que 10';
 } 
-
 ?>
