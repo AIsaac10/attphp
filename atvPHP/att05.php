@@ -7,5 +7,4 @@ informar o nome do aluno e a sua média (aritmética). -->
     $nota3 = 10;
     $media = ($nota1 + $nota2 + $nota3) / 3;
     echo $media;
-
 ?>
